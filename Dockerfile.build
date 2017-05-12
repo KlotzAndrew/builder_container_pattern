@@ -1,0 +1,10 @@
+FROM gliderlabs/alpine:3.4
+
+ENV WORK_DIR=/code
+
+RUN mkdir $WORK_DIR
+WORKDIR $WORK_DIR
+
+RUN ["touch", "zomg.txt"]
+
+RUN echo "Hi this is a cool test" >> textfile.txt
