@@ -1,0 +1,7 @@
+HOSTNAME=6df099a272f4
+WORK_DIR=/code
+HOME=/root
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+PASSWORD_2=super_secret_password
+PWD=/code
+PASSWORD=super_secret_password
